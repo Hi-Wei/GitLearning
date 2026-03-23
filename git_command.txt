@@ -1,0 +1,3 @@
+1. 设置用户身份信息用于提交：git config --global user.email “邮箱”         git config --global user.name "用户名"
+2. 新建本地git仓库：git init
+3. 关联本地仓库和github仓库：git remote add origin <server>
