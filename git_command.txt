@@ -3,4 +3,7 @@
 3. 通过SSH登录github，创建SSH，将公钥放到github。电脑需要连接github时，github通过公钥发送加密内容，电脑通过私钥解密。
 4. 关联本地仓库和github仓库：git remote add origin <server>
 5. 查看本地仓库关联的github仓库：git remote -v
+6. 查看分支信息：git branch -v
+7. 创建分支并切换到该分支：git checkout -b 分支名
+
 
